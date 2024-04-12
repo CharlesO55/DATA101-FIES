@@ -17,9 +17,7 @@ The created visualization application offers valuable benefits to Policymakers a
 - Suaybaguio, Kean Ivan
 
 ## Setup Instructions
-To run the application via **JupyterLab**:  
-
-1. Install the following libraries: 
+Install the following libraries: 
 ```
     pip install plotly 
     pip install plotly_express
@@ -30,9 +28,10 @@ To run the application via **JupyterLab**:
     pip install ipynb
 ```
 
-2. Navigate to `/DATA101-FIES/Dev/WebDev.ipynb`  
-3. Run the file  
-4. Go to `http://127.0.0.1:8053/` on your browser  
+To run the application via **JupyterLab**:  
+1. Navigate to `/DATA101-FIES/Dev/WebDev.ipynb`  
+2. Run the file  
+3. Go to `http://127.0.0.1:8053/` on your browser  
 
 
 To run the application via **Command Line**:
