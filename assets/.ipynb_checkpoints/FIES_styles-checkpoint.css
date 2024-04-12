@@ -1,3 +1,11 @@
+/* FIES_styles.css */
+
 .labelTag{
     font-style: italic;
+}
+
+.custom-navbar {
+    background-color: #00162f; /* Your desired background color */
+    color: #ffffff; /* Your desired text color */
+    /* Add any other custom styles here */
 }
