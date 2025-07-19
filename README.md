@@ -6,7 +6,7 @@ Utilizing data from the **PSA Family Income and Expenditure Survey**, graphs wer
 The created visualization application offers valuable benefits to Policymakers and Government Officials, NGOs, and Economists in Private Sectors. It benefits the target audience, empowering them with data-driven insights, facilitating informed decision-making, and supporting their objectives in economic planning, research, social welfare, and market analysis. Ultimately, the interactive visualization application empowers policymakers to make evidence-based decisions, enhance transparency in governance, and drive meaningful progress toward reducing poverty and promoting inclusive economic growth in the Philippines.
 
 # Product
-[Watch Demo]('https://youtu.be/ObXyFYXclzc')
+[Watch Demo](https://youtu.be/ObXyFYXclzc)
 
 <table width="100%">
     <tr>
