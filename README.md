@@ -1,7 +1,13 @@
-# Family Income Expenditure Survey WebApp
-DATA101 Data Visualization Machine Project. 
+# About
+Interactive dashboard web application built using `Dash`, `Plotly`, and `Geojson`.
 
-## Product
+Utilizing data from the **PSA Family Income and Expenditure Survey**, graphs were generated to help convey information and produce reports for stakeholders. 
+
+The created visualization application offers valuable benefits to Policymakers and Government Officials, NGOs, and Economists in Private Sectors. It benefits the target audience, empowering them with data-driven insights, facilitating informed decision-making, and supporting their objectives in economic planning, research, social welfare, and market analysis. Ultimately, the interactive visualization application empowers policymakers to make evidence-based decisions, enhance transparency in governance, and drive meaningful progress toward reducing poverty and promoting inclusive economic growth in the Philippines.
+
+# Product
+[Watch Demo]('https://youtu.be/ObXyFYXclzc')
+
 <table width="100%">
     <tr>
         <td width="50%" align="center"><img src="assets/Report/Landing Page.png" alt="Summary" style="max-height: 360px; object-fit: contain;"/></td>
@@ -24,14 +30,11 @@ DATA101 Data Visualization Machine Project.
 <img src="assets/Report/Nutrition by Age.png" alt="Nutrition by Age" align="center"/>
 <p align="center"><b>Nutrition by Age</b></p>
 
-## Description
-This is a interactive web dashboard application built using `Dash`, `Plotly`, and `Geojson`.
+# Datasets
+* FIES Dataset - https://www.kaggle.com/datasets/grosvenpaul/family-income-and-expenditure
+* GeoJson Philippines : https://raw.githubusercontent.com/faeldon/philippines-json-maps/master/2023/geojson/country/lowres/country.0.001.json
 
-Utilizing data from the **PSA Family Income and Expenditure Survey**, graphs were generated to help convey information and produce reports for stakeholders. 
-
-The created visualization application offers valuable benefits to Policymakers and Government Officials, NGOs, and Economists in Private Sectors. It benefits the target audience, empowering them with data-driven insights, facilitating informed decision-making, and supporting their objectives in economic planning, research, social welfare, and market analysis. Ultimately, the interactive visualization application empowers policymakers to make evidence-based decisions, enhance transparency in governance, and drive meaningful progress toward reducing poverty and promoting inclusive economic growth in the Philippines.
-
-### Learnings
+# Learnings
 1. Visualization Tools
     1. Plotly graphs (Bar, Pie, etc.)
     2. Chloropeth maps - Geojson to interpret JSON map data.
@@ -40,14 +43,10 @@ The created visualization application offers valuable benefits to Policymakers a
     2. App interactions by linking the Inputs, Callback functions, and Output. 
 
 
-### Datasets
-* FIES Dataset - https://www.kaggle.com/datasets/grosvenpaul/family-income-and-expenditure
-* GeoJson Philippines : https://raw.githubusercontent.com/faeldon/philippines-json-maps/master/2023/geojson/country/lowres/country.0.001.json
-
 ## Project Team
 - Bautista, Alicia Isis
 - Celestino, Elizabeth
-- Ong, Charles Matthew
+- Ong, Charles 
 - Suaybaguio, Kean Ivan
 
 ## Setup Instructions
